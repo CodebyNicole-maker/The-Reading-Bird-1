@@ -16,7 +16,7 @@ To get the application up and running on your local machine, follow these steps:
 1. **Clone the repository**  
    Use the following command to clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/book-search-app.git
+   git clone 
    ```
 
 2. **Install all necessary packages**  
