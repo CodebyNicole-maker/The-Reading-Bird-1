@@ -1,4 +1,4 @@
-# Book Search Engine
+# The-Reading-Bird
 
 ## Description
 This application allows users to search for books using the Google Books API. Users can browse books without logging in, but to save books to their personal library, they need to create an account. The app provides a seamless experience for book enthusiasts to discover and manage their favorite reads.
@@ -16,7 +16,7 @@ To get the application up and running on your local machine, follow these steps:
 1. **Clone the repository**  
    Use the following command to clone the repository to your local machine:
    ```bash
-   git clone 
+   git clone git@github.com:CodebyNicole-maker/The-Reading-Bird-1.git
    ```
 
 2. **Install all necessary packages**  
@@ -32,27 +32,24 @@ To get the application up and running on your local machine, follow these steps:
    npm run start:dev
    ```
    You will then see the home screen which looks like the following:
-   ![Home-page](https://github.com/user-attachments/assets/76f3aefc-bdc6-499a-8a0b-e18079ac1c15)
+   ![Home-page](https://raw.githubusercontent.com/CodebyNicole-maker/The-Reading-Bird-1/refs/heads/main/client/assets/Home-page.png)
    
 Once the application is running, you can access it via your browser at `http://localhost:3000` (or the specified port).
 
 ## Usage
 - **Searching for Books**:  
   You can search for books using the search bar on the homepage without needing to log in. Simply enter a book title or keyword and the app will display relevant results from the Google Books API. See below:
-![Book-list](https://github.com/user-attachments/assets/1d0ca468-e88f-40b2-b163-350ec9d3f0db)
+![Book-list](https://raw.githubusercontent.com/CodebyNicole-maker/The-Reading-Bird-1/refs/heads/main/client/assets/Book-list.png)
 
 - **Creating an Account**:  
   To create an account, click on the "Sign Up" button, fill in the required details, and submit the form.
-![Login:signup](https://github.com/user-attachments/assets/442a6ff6-9d09-499a-a50d-55c499b06b7a)
+![Login:signup](https://github.com/CodebyNicole-maker/The-Reading-Bird-1/blob/main/client/assets/Log-in.png?raw=true)
 
 - **Logging In**:  
   If you already have an account, click on the "Login" button and enter your credentials to access your saved books.
 
 
-## Collaborators
-Thank you to Sangeetha Kaliaperumal and Kayvon Kazemini for their assistance in creating this project.
-
 ## Questions
 If you have any questions or need further assistance, feel free to reach out:
-- **GitHub Profile**: https://github.com/erindagfoley  
-- **Email**: erindagfoley@gmail.com  
+- **GitHub Profile**: https://github.com/CodebyNicole-maker 
+- **Email**: nicole.barger22@gmail.com
