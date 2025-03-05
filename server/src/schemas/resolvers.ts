@@ -1,4 +1,3 @@
-
 // import { AuthenticationError } from 'apollo-server-errors'; 
 import User from '../models/User.js';
 import { signToken, AuthenticationError  } from '../utils/auth.js';
@@ -95,3 +94,4 @@ console.log(updatedUser);
 };
 
 export default resolvers;
+
